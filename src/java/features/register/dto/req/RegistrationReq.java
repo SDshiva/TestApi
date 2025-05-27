@@ -39,7 +39,4 @@ public class RegistrationReq {
     public String toString() {
         return "RegistrationReq{" + "name=" + userName + ", email=" + email + ", password=" + password + '}';
     }
-    
-    
-    
 }
